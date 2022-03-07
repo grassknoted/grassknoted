@@ -1,5 +1,5 @@
 ### Hi there 👋
-Have a look at my website: (akashnagaraj.me)[https://www.akashnagaraj.me]
+Have a look at my website: [akashnagaraj.me](https://www.akashnagaraj.me)
 <!--
 **grassknoted/grassknoted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
