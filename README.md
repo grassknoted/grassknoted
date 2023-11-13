@@ -1,5 +1,7 @@
 ### Hi there 👋
-Have a look at my website: [akashnagaraj.me](https://www.akashnagaraj.me)
+Please have a look at my website: [akashnagaraj.me](https://www.akashnagaraj.me)
+
+[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=grassknoted)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **grassknoted/grassknoted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
